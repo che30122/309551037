@@ -53,15 +53,15 @@
 	<junit.jupiter.version>5.6.1</junit.jupiter.version>
     </properties>
     <build>
-	<plugin>
+	<plugins>
 	    <plugin>
 		    <artifactId>maven-compiler-plugin</artifactId>
 	            <version>3.8.1</version>	    
-	    <plugin>
+	    </plugin>
 	    <plugin>
 		    <artifactId>maven-compiler-plugin</artifactId>
 		    <version>2.22.2</version>
 	    </plugin>		    
-	</plugin>
+	</plugins>
     </build>
 </project>
