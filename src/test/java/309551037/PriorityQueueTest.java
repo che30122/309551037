@@ -14,7 +14,7 @@ public class PriorityQueueTest{
                 arguments(new int[]{4,9,5,7},new int[]{4,5,7,9}),
 		arguments(new int[]{-1,-4,0,1,4},new int[]{-4,-1,0,1,4}),
 		arguments(new int[]{-10000,-20000,-4,-1000},new int[]{-20000,-10000,-1000,-4}),
-		arguments(new int[]{0,0,0},new int[]{0,0,1})
+		arguments(new int[]{0,0,0},new int[]{0,0,0})
         );
     }
 
